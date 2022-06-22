@@ -9,7 +9,7 @@ imutils==0.5.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-numpy==1.19.5
+numpy==1.22.0
 opencv-contrib-python==4.5.1.48
 opencv-python==4.5.1.48
 packaging==20.9
